@@ -7,7 +7,7 @@ public class Book {
     //-author as String
     //-pages as int
 
-    public String title;
+    private String title;
     private String author;
     private int pages;
 
